@@ -2,6 +2,6 @@
 test repo for learning
 
 
-This is the kfirst edit.
+This is the first edit.
 
 duh!
